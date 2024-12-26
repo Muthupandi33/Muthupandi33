@@ -26,3 +26,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthupandi33&show_icons=true&locale=en" alt="muthupandi33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthupandi33&" alt="muthupandi33" /></p>
+
+From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
+From: The Octocat <octocat@nowhere.com>
+Date: Sun, 27 Apr 2014 15:36:39 +0530
+Subject: [PATCH] updated index for better welcome message
+
+diff --git a/index.html b/index.html
+index e69de29..b1d2b5a 100644
+--- a/index.html
++++ b/index.html
+@@ -0,0 +1,5 @@
++<!DOCTYPE html>
++<html>
++<head>
++    <title>Welcome</title>
++</head>
++<body>
++    <h1>Welcome to our site!</h1>
++</body>
++</html>
+--
+2.20.1
